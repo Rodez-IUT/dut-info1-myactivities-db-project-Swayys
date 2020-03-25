@@ -3,8 +3,8 @@
 ### NOM : SAUREL
 ### Prénom : Rémi
 ### Groupe de TP/TD : 
-- [] 1
-- [] 2
+- [ ] 1
+- [ ] 2
 - [x] 3
 
 ### 0. Création et initialisation du projet "myactivities-db-project"
