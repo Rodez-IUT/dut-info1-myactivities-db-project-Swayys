@@ -30,3 +30,5 @@ Insérez 4 salles dans votre BD à l'aide des instructions suivantes :
     select * from gds.insert_salle('rose', 6);
     select * from gds.insert_salle('dalhia', 24);
     select * from gds.insert_salle('tulipe', 32);
+
+
